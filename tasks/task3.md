@@ -1,6 +1,6 @@
 # 과제 3 (난이도 상)
 
-https://github.com/udacity/asteroids에 들어가 해당 리포지토리를 로컬 머신에 클론 받고 다음 과제를 수행해주세요.
+https://github.com/udacity/asteroids 에 들어가 해당 리포지토리를 로컬 머신에 클론 받고 다음 과제를 수행해주세요.
 
 ## 버그를 유발한 커밋 찾기
 
