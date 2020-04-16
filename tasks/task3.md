@@ -21,19 +21,29 @@ index.html 파일을 열고 게임을 직접 실행해 봅시다.
 ### 정답
 
 git checkout -b develop
+
 git rebase --interactive 25ede836903881848fea811df5b687b59d962da3
 
+
 Open game.js File
+
 Insert "this.delayBeforeBullet = 10;" on 411 line of game.js
+
 Save game.js File
 
+
 git add .
+
 git commit --amend
+
 
 Edit commit and Save
 
+
 git rebase --continue
+
 git checkout master
+
 git merge develop
 
 
