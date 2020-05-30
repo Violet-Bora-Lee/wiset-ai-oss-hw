@@ -1,21 +1,5 @@
-# 과제 1 (난이도 하)
+# 과제 1 
 
-![GitHub Triangle](../resources/git-and-github-initial-setup.png)
-
-(그림 [출처](https://docs.microsoft.com/en-us/contribute/get-started-setup-local))
-
-> 위 그림을 참고해 하단부의 빈칸을 완성해주세요. 들어갈 수 있는 단어 혹은 명령어는 다음과 같습니다.
-
-- origin
-- upstream
-- 클론
-- 포크
-- merge
-- fetch
-- rebase
-- git pull
-- git clone
-- git remote add upstream
 
  
 ## 로컬 머신에 작업 환경 구축하기
@@ -25,6 +9,8 @@
 포크 받은 리포지토리 주소 앞에 clone 를 붙여 만든 명령어를 로컬 머신(내 컴퓨터)에 입력하면 로컬 머신에 해당 리포지토리를 clone 받을 수 있습니다.
 
 참고로, git clone 명령어로 리포지토리를 최초로 클론받는 경우, 해당 리포지토리의 기본 별명은 origin 이 됩니다.
+
+
 
 ## 소스 코드 최신으로 유지하기
 
