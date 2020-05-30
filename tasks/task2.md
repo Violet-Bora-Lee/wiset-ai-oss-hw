@@ -9,15 +9,13 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
  
 ## 과제 완료 캡쳐 화면
 
-자신의 username이 적힌 그림 파일이 하단에 보여야 합니다.
+자신의 user name (young21st) 이 적힌 그림 파일이 하단에 보여야 합니다.
 
 ![Task2_1](C:/Users/user/Desktop/WisetOpen/Grithub/Tasks/Task2_1.png)
 
 ![Task2_2](C:/Users/user/Desktop/WisetOpen/Grithub/Tasks/Task2_2.png)
 
-## 응원의 말
 
-여기 있는 명령어를 모두 외우지 않아도 괜찮습니다. git으로 어떤 작업을 할 수 있는지 정도만 알아 두었다가, 필요할 때 다시 Learn Git Branching 사이트로 돌아와 가상 환경에서 실습한 후 실무에 적용하는 개발자들이 많습니다. 겁먹지 마세요!
 
 
 
